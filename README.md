@@ -2,8 +2,6 @@
 
 A full-stack Retrieval-Augmented Generation conversational chatbot engineered with Flask and Scikit-Learn. The application serves as an interactive educational assistant, mapping technical forex trading queries against a verified curriculum using machine learning-based text vectorization.
 
-Live Link: [Insert your live Azure Web App link here]
-
 ---
 
 **Key Features**
