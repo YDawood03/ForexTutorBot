@@ -1,5 +1,3 @@
-Here is the clean, human-written version of your readme. It uses simple markdown formatting with bold headings, removes the AI clichés, and leaves a clear line space between every heading and section for optimal readability.
-
 # Forex AI Tutor
 
 A full-stack Retrieval-Augmented Generation conversational chatbot engineered with Flask and Scikit-Learn. The application serves as an interactive educational assistant, mapping technical forex trading queries against a verified curriculum using machine learning-based text vectorization.
