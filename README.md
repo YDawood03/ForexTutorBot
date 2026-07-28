@@ -41,8 +41,7 @@ A full-stack Retrieval-Augmented Generation conversational chatbot engineered wi
 ---
 
 ## Interface Preview
-
-*(Add a screenshot here for maximum impact!)*
+<img width="1200" height="532" alt="forextutorbot" src="https://github.com/user-attachments/assets/17c94680-77ae-42b7-851a-92cea7914bc8" />
 
 ---
 
