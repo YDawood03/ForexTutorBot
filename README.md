@@ -95,4 +95,3 @@ This application is continuously deployed to **Microsoft Azure App Service** via
 
 
 > 
-> \#MachineLearning #Flask #Python #NLP #Azure #Forex #BScIT
